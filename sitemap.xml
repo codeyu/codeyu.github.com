@@ -2,6 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://codeyu.com/2016/10/22/actorsystem/</loc>
+    
+    <lastmod>2025-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://codeyu.com/2016/08/21/asp-net-deployment-scenario/</loc>
+    
+    <lastmod>2025-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://codeyu.com/2017/06/18/automated-testing-with-headless-chrome/</loc>
+    
+    <lastmod>2025-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://codeyu.com/2017/02/13/docker-cheat-sheet/</loc>
+    
+    <lastmod>2025-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://codeyu.com/2016/05/30/hello-world/</loc>
+    
+    <lastmod>2025-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://codeyu.com/2017/06/17/how-find-a-port-and-kill-it/</loc>
+    
+    <lastmod>2025-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://codeyu.com/2016/09/22/install-docker-on-ubuntu/</loc>
+    
+    <lastmod>2025-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://codeyu.com/2017/09/29/install-java-8-on-centos-rhel-and-fedora/</loc>
+    
+    <lastmod>2025-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://codeyu.com/2016/09/22/linux-zsh-shell-script-command-not-found/</loc>
     
     <lastmod>2025-04-12</lastmod>
@@ -65,6 +137,42 @@
   </url>
   
   <url>
+    <loc>http://codeyu.com/2016/12/31/2017-first-Post/</loc>
+    
+    <lastmod>2025-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://codeyu.com/2016/09/04/Akka-NET-Terminology-and-Concepts/</loc>
+    
+    <lastmod>2025-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://codeyu.com/2016/08/28/Akka-NET-Users-and-Use-Case/</loc>
+    
+    <lastmod>2025-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://codeyu.com/2016/08/27/Azure-PaaS-Deployment-Scenario/</loc>
+    
+    <lastmod>2025-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://codeyu.com/2016/08/21/Console-deployment-scenario/</loc>
     
     <lastmod>2025-04-12</lastmod>
@@ -111,114 +219,6 @@
   
   <url>
     <loc>http://codeyu.com/2016/10/22/actors/</loc>
-    
-    <lastmod>2025-04-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://codeyu.com/2016/10/22/actorsystem/</loc>
-    
-    <lastmod>2025-04-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://codeyu.com/2016/08/21/asp-net-deployment-scenario/</loc>
-    
-    <lastmod>2025-04-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://codeyu.com/2017/06/18/automated-testing-with-headless-chrome/</loc>
-    
-    <lastmod>2025-04-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://codeyu.com/2017/02/13/docker-cheat-sheet/</loc>
-    
-    <lastmod>2025-04-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://codeyu.com/2016/05/30/hello-world/</loc>
-    
-    <lastmod>2025-04-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://codeyu.com/2017/06/17/how-find-a-port-and-kill-it/</loc>
-    
-    <lastmod>2025-04-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://codeyu.com/2017/09/29/install-java-8-on-centos-rhel-and-fedora/</loc>
-    
-    <lastmod>2025-04-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://codeyu.com/2016/09/22/install-docker-on-ubuntu/</loc>
-    
-    <lastmod>2025-04-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://codeyu.com/2016/12/31/2017-first-Post/</loc>
-    
-    <lastmod>2025-04-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://codeyu.com/2016/09/04/Akka-NET-Terminology-and-Concepts/</loc>
-    
-    <lastmod>2025-04-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://codeyu.com/2016/08/28/Akka-NET-Users-and-Use-Case/</loc>
-    
-    <lastmod>2025-04-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://codeyu.com/2016/08/27/Azure-PaaS-Deployment-Scenario/</loc>
     
     <lastmod>2025-04-12</lastmod>
     
@@ -306,6 +306,13 @@
   </url>
   
   <url>
+    <loc>http://codeyu.com/tags/ubuntu/</loc>
+    <lastmod>2025-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://codeyu.com/tags/java/</loc>
     <lastmod>2025-04-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -314,13 +321,6 @@
   
   <url>
     <loc>http://codeyu.com/tags/how-to/</loc>
-    <lastmod>2025-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://codeyu.com/tags/ubuntu/</loc>
     <lastmod>2025-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
